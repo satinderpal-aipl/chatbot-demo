@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          test working on github all
+          test working on github all now only push gets work
         </a>
       </header>
     </div>
